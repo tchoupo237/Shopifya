@@ -1,61 +1,77 @@
-# 🛍️ Shopifya — Plateforme E-Commerce Moderne
+# 🛍️ Shopifya — E-Commerce Vanilla JavaScript (DOM)
 
-> Une application e-commerce moderne, élégante et responsive, conçue pour simuler une boutique en ligne interactive avec catalogue de produits, recherche dynamique, système de favoris et panier d'achat.
+> Une application e-commerce moderne, élégante et interactive, développée en HTML, CSS et JavaScript pur en exploitant la manipulation dynamique du DOM.
 
 ---
 
 ## 📸 Aperçu du projet
 
 <div align="center">
-  <img src="https://github.com/tchoupo237/shopifya/blob/main/public/shopifya.jpg?raw=true" alt="Aperçu de Shopifya - E-Commerce" width="100%" />
+  <img src="https://github.com/tchoupo237/Shopifya/blob/main/assets/image/shopifya.png?raw=true" alt="Aperçu de Shopifya - E-Commerce" width="100%" />
 </div>
 
 ---
 
 ## 🚀 À propos du projet
 
-**Shopifya** est une application web e-commerce inspirée des standards du marché actuel. Elle offre une expérience utilisateur fluide et soignée pour la découverte et l'achat de produits de mode (chapeaux, casquettes, accessoires).
-Principales fonctionnalités :
+**Shopifya** est une application web e-commerce interactive conçue pour mettre en pratique la manipulation avancée du DOM en JavaScript. Elle simule une boutique en ligne fluide dédiée à la mode (chapeaux, accessoires) avec :
 
-- 🔍 **Recherche et filtres instantanés** pour trouver rapidement les articles souhaités.
-- ❤️ **Gestion des favoris** (Wishlist) et du panier interactif.
-- ⭐️ **Système d'évaluation** et affichage détaillé des prix et des caractéristiques produits.
-- 📱 **Interface responsive** adaptée à tous les types d'écrans.
+- 🔍 **Recherche et filtrage en temps réel** des produits directement via le DOM.
+- ❤️ **Gestion des favoris** et des interactions dynamiques.
+- 🛒 **Panier d'achat interactif** avec mise à jour instantanée des prix et des articles.
+- 📱 **Interface responsive** soignée et agréable.
 
 ---
 
 ## 🛠️ Stack Technique
 
 <p align="left">
-  <!-- React JS -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react js" width="55" height="55"/>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="55" height="55"/>
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>
   </a>
   &nbsp;&nbsp;
-  <!-- DaisyUI -->
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyui" width="55" height="55"/>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Lucide React -->
-  <a href="https://lucide.dev/" target="_blank" rel="noreferrer">
-    <img src="https://lucide.dev/logo.dark.svg" alt="lucide react" width="55" height="55"/>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
   </a>
 </p>
 
-_L'application est développée avec **React.js**. Le design moderne et épuré est propulsé par **Tailwind CSS** et **DaisyUI**, tandis que les icônes proviennent de la bibliothèque **Lucide React**._
+_Le projet repose entièrement sur les technologies web fondamentales : **HTML5**, **CSS3** et **JavaScript (DOM API)** sans framework externe._
 
 ---
 
-## ⚙️ Installation et Démarrage Rapide
+## ⚙️ Installation et Lémarrage Rapide
 
-Assurez-vous d'avoir **Node.js** et **Git** installés sur votre machine, puis copiez et exécutez la commande unique ci-dessous dans votre terminal pour cloner le projet, installer les dépendances et lancer l'application :
+Assurez-vous d'avoir **Git** installé sur votre machine. Copiez et exécutez la commande unique ci-dessous dans votre terminal pour cloner le projet et l'ouvrir :
 
 ```bash
-git clone [https://github.com/tchoupo237/shopifya.git](https://github.com/tchoupo237/shopifya.git) && cd shopifya && npm install && npm run dev
+git clone [https://github.com/tchoupo237/Shopifya.git](https://github.com/tchoupo237/Shopifya.git) && cd Shopifya
+
 ```
+
+> Lancement de l'application :
+> Puisque c'est un projet statique (HTML/CSS/JS), vous pouvez simplement :
+
+Ouvrir le dossier du projet dans VS Code.
+
+Utiliser l'extension Live Server pour lancer le fichier index.html en local.
+
+Ou double-cliquer directement sur le fichier index.html pour l'ouvrir dans votre navigateur web.
+
+👤 Auteur
+Tchoupo Christian (WEB 3.0 ACADEMY)
+
+Étudiant en Génie Logiciel & Développeur Full-Stack
+
+GitHub : @tchoupo237
