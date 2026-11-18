@@ -60,9 +60,8 @@ git clone [https://github.com/tchoupo237/Shopifya.git](https://github.com/tchoup
 
 ```
 
-> Lancement de l'application :
-> Puisque c'est un projet statique (HTML/CSS/JS), vous pouvez simplement :
-
+Lancement de l'application :
+Puisque c'est un projet statique (HTML/CSS/JS), vous pouvez simplement :
 Ouvrir le dossier du projet dans VS Code.
 
 Utiliser l'extension Live Server pour lancer le fichier index.html en local.
